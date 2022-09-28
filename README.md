@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 400px" />
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
 </div>
 
 ### <div align="center">I'm Matheus, a web developer (PHP/Laravel)</div>
